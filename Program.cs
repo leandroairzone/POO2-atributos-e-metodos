@@ -25,7 +25,15 @@ namespace Aula_2
             Console.WriteLine($"Personagem 1  = {objetoPersonagem1.nome} - {objetoPersonagem1.Atacar()}");
             Console.WriteLine($"Personagem 2  = {objetoPersonagem2.nome} - {objetoPersonagem2.Defender(0)}");
 
+       
+   //Console.WriteLine($"Personagem 2  = {objetoPersonagem2.nome} - {objetoPersonagem2.Defender(0)}");
+      // obs ..essa segunda linha esta com erro na palavra (DEENDER)..EU tinha dado contro ponto nela e deu pior
+      
 
+       
+
+
+        
 
 
         
